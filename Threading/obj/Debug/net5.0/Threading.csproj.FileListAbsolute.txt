@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.exe
+C:\Users\User\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.deps.json
+C:\Users\User\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.json
+C:\Users\User\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.dev.json
+C:\Users\User\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.dll
+C:\Users\User\source\repos\Threading\Threading\bin\Debug\net5.0\ref\Threading.dll
+C:\Users\User\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.pdb
+C:\Users\User\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfo.cs
+C:\Users\User\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.dll
+C:\Users\User\source\repos\Threading\Threading\obj\Debug\net5.0\ref\Threading.dll
+C:\Users\User\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.pdb
+C:\Users\User\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.genruntimeconfig.cache
